@@ -11,7 +11,6 @@ import datetime as dt
 import numpy as np
 from scipy import stats
 from matplotlib import pyplot as plt
-from arch import arch_model 
 pd.options.mode.chained_assignment = None 
 
 df = pd.read_excel('DataLab2.xlsx')
